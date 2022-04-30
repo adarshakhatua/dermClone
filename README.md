@@ -31,3 +31,7 @@ This is our clone project of official website of dermstore.com. We have used HTM
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
+#### Author: Adarsha Khatua
+#### Linkedin: https://www.linkedin.com/in/adarsha-khatua/
+#### Site link: https://dermstore.netlify.app/
+
